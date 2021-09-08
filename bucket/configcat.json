@@ -6,20 +6,16 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/configcat/cli/releases/download/v1.1.0/configcat-cli_1.1.0_win-x64.zip",
-      "hash": "0af22ff74915cc100699b8b1c1c806fc2cfa5df3b8fb2ae6113e1face29a5970"
+      "hash": "0af22ff74915cc100699b8b1c1c806fc2cfa5df3b8fb2ae6113e1face29a5970",
+      "extract_dir": "win-x64"
     },
     "32bit": {
       "url": "https://github.com/configcat/cli/releases/download/v1.1.0/configcat-cli_1.1.0_win-x86.zip",
-      "hash": "63a4b6c66db3b3a9bd921b7e6332c13ec0b57c52f3b609eaab31dc679e72f520"
+      "hash": "63a4b6c66db3b3a9bd921b7e6332c13ec0b57c52f3b609eaab31dc679e72f520",
+      "extract_dir": "win-x86"
     }
   },
   "bin": "configcat.exe",
-  "shortcuts": [
-    [
-      "configcat.exe",
-      "configcat"
-    ]
-  ],
   "checkver": {
     "github": "https://github.com/configcat/cli"
   },
