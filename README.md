@@ -1,4 +1,4 @@
-# Scoop Bucket for ConfigCat.
+# Scoop Bucket for ConfigCat
 [Scoop](https://scoop.sh) third party bucket for ConfigCat.
 
 To add this bucket to your scoop environment, execute the following command.
