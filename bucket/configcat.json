@@ -1,17 +1,17 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "homepage": "https://configcat.com",
   "description": "The ConfigCat Command Line Interface allows you to interact with the ConfigCat Management API via the command line. It supports most functionality found on the ConfigCat Dashboard. You can manage ConfigCat resources like Feature Flags, Targeting / Percentage rules, Products, Configs, Environments, and more.",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/configcat/cli/releases/download/v1.5.2/configcat-cli_1.5.2_win-x64.zip",
-      "hash": "15a44695edb31cc40056606f10769517b56c37d2127fc2e7f7aaf1cdf9fd3014",
+      "url": "https://github.com/configcat/cli/releases/download/v1.5.3/configcat-cli_1.5.3_win-x64.zip",
+      "hash": "7585a167e73ccb27e1223eb0b605118c552942d69af1433c98bb21d6b975c3c8",
       "extract_dir": "win-x64"
     },
     "32bit": {
-      "url": "https://github.com/configcat/cli/releases/download/v1.5.2/configcat-cli_1.5.2_win-x86.zip",
-      "hash": "ee4d57dfc07be5cda76cd0c5df18ac1f353d6bee1da700219f5bbae15dc71800",
+      "url": "https://github.com/configcat/cli/releases/download/v1.5.3/configcat-cli_1.5.3_win-x86.zip",
+      "hash": "ef79a0ccc0b9d7bc8866e676f13dcdd11c7d7e3c4411102a4f9daa5c4d5a5925",
       "extract_dir": "win-x86"
     }
   },
